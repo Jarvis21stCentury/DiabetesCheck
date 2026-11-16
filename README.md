@@ -50,6 +50,6 @@ Open the notebook in Colab and choose **Runtime → Run all** (about 8 minutes; 
 
 ## Credits
 
-Built by Hima Shreyas Nagumalla and [partner's full name].
+Built by Hima Shreyas Nagumalla and Nishant Garikota.
 Data: CDC BRFSS 2015 via the UCI Machine Learning Repository. Libraries: scikit-learn, pandas, NumPy, ucimlrepo.
 AI use: Claude and ChatGPT helped with code, debugging and the web interface. We can explain every part of it. Details are in the notebook.
